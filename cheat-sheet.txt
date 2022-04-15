@@ -1,0 +1,97 @@
+
+YAED VERBS
+poa - can
+besha - want
+
+be - eta
+have - suba
+do - fada
+say - yasa
+get - koa
+make - maka
+go - mova
+see - deta
+know - impa
+take - reca
+think - ensa
+come - appra
+give - dara
+look - gua
+eat - mangia
+
+YAED QUESTIONS
+who, what, where, when, why, which, how
+yem, yat,  yere,  yael, yol, yaik,  yax
+
+YAED PREPOSITIONS
+of,  at, from, in, with, on, for, between
+sub, sa, de,   nu, am,   gu, ro,  med
+
+YAED PHRASAL STRUCTURE
+<verb> <object>
+
+YAED CONNECTORS
+nix        SO
+
+YAED BASIC SUFFIXES
+*a         VERB
+*o         ADJECTIVE
+*i         ADVERB
+*x/*yx     PLURAL/PLURAL AFTER CONSONANT
+[implicit] NAME
+
+YAED SUFFIX PRONOUNS
+[implicit] I (1st sing.)
+*e         YOU (2nd sing.)
+*o         HE/SHE/IT (3rd sing.)
+
+NOTE: for plural add the plural prefix at the pronoun
+NOTE: a pronoun can be a name
+
+YAED OBJECTIVES
+tse'       THIS
+tsa'       THAT
+tsu'       THERE
+
+YAED COMPARATORS
+* <adj> [plu]com *     * MORE THAN * / <adj> than
+* <adj> [min]com *     * LESS THAN * / <adj> than
+* <adj> [equ]com *     * EQUAL TO * / <adj> than
+
+EXAMPLES:
+the x's dog is faster than y's dog
+by'x dog plufasto com b'y dog
+
+YAED TIME SUFFIX
+[implicit] PRESENT
+*i         PAST
+*e         FUTURE
+*u         CONDITIONAL
+*a         PAST PARTICIPLE
+
+YAED OTHER SUFFIXES
+*al        PERSON/ANIMAL WHO
+
+YAED PREFIXES
+plu*       MORE
+min*       LESS
+alu*       TOO MUCH
+ain*       OPPOSITE OF TOO MUCH
+
+YAED GOOD/NOT GOOD
+uya        GOOD
+(n'uya     NOT GOOD)
+
+YAED ARTICLES
+[implicit] THE
+1          AN/A
+
+YAED NEGATION
+n'/ny' + <...>
+
+NOTE: ny is for [implicit] or when ends with consonant
+
+YAED POSSESSIVE ADJECTIVES
+b'/by' + <pronoun>
+
+NOTE: by is for [implicit] or when ends with consonant
