@@ -2,20 +2,20 @@
 #    Dar H. M. & Sawcce
 
 prepositions:     # Sawcce
-    to:    ""    # to add
     of:    "sub"
     in:    "nu"
     for:   "ro"
     on:    "gu"
     with:  "am"
     at:    "sa"
-    by:    ""    # to add
     from:  "de"
-    up:    ""    # to add
-    about: ""    # to add
-    into:  ""    # to add
-    over:  ""    # to add
-    after: ""    # to add
+    up:    ""     # to add
+    about: "got"  # to add
+    into:  "ant"  # to add
+    over:  "uve"  # to add
+    after: "neme" # to add
+    by:    "un"   # to add
+    to:    "so"   # to add
 
 other:            # Dar H. M.
     and:   "ye"
