@@ -1,24 +1,3 @@
-
-YAED VERBS
-poa - can
-besha - want
-
-be - eta
-have - suba
-do - fada
-say - yasa
-get - koa
-make - maka
-go - mova
-see - deta
-know - impa
-take - reca
-think - ensa
-come - appra
-give - dara
-look - gua
-eat - mangia
-
 YAED QUESTIONS
 who, what, where, when, why, which, how
 yem, yat,  yere,  yael, yol, yaik,  yax
