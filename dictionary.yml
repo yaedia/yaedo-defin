@@ -1,0 +1,112 @@
+# THE YAED DICTIONARY v0.0.1
+#    Dar H. M. & Sawcce
+
+prepositions:     # Sawcce
+    to:    ""    # to add
+    of:    "sub"
+    in:    "nu"
+    for:   "ro"
+    on:    "gu"
+    with:  "am"
+    at:    "sa"
+    by:    ""    # to add
+    from:  "de"
+    up:    ""    # to add
+    about: ""    # to add
+    into:  ""    # to add
+    over:  ""    # to add
+    after: ""    # to add
+
+other:            # Dar H. M.
+    and:   "ye"
+    a:     "1"
+    that:  "tsa"
+    not:   "ny"
+    as:    "colo" # added
+    this:  "tse"
+    but:   "to"   # added
+    or:    "il"   # added
+    one:   "1"    # added
+    all:   "ward" # added
+    there: "tsu"  # added
+
+verbs:             # Dar H. M.
+    be:    "eta"
+    have:  "suba"
+    do:    "fada"
+    say:   "yasa"
+    get:   "koa"
+    make:  "maka"
+    go:    "gova"  # added
+    know:  "impa"
+    take:  "reca"
+    see:   "pea"   # added
+    come:  "appra"
+    think: "ensa"
+    look:  "gua"
+    want:  "besha"
+    give:  "dara"
+    use:   "sha"   # added
+    find:  "difa"  # added
+    tell:  "fasa"  # added
+    ask:   "fusa"  # added
+    work:  "sopa"  # added
+    seem:  "vida"  # added
+    feel:  "sena"  # added
+    try:   "tra"   # added
+    leave: "guva"  # added
+    call:  "kema"  # added
+
+adjectives:       # Sawcce
+    good:      "" # to add
+    new:       "" # to add
+    first:     "" # to add
+    last:      "" # to add
+    long:      "" # to add
+    great:     "" # to add
+    little:    "" # to add
+    own:       "" # to add
+    other:     "" # to add
+    old:       "" # to add
+    right:     "" # to add
+    big:       "" # to add
+    high:      "" # to add
+    different: "" # to add
+    small:     "" # to add
+    large:     "" # to add
+    next:      "" # to add
+    early:     "" # to add
+    young:     "" # to add
+    important: "" # to add
+    few:       "" # to add
+    public:    "" # to add
+    bad:       "" # to add
+    same:      "" # to add
+    able:      "" # to add
+
+nouns:                   # Dar H. M.
+    time:       "temp"   # added
+    person:     "pone"   # added
+    year:       "yane"   # added
+    way:        "stre"   # added
+    day:        "dies"   # added
+    thing:      "coes"   # added
+    man:        "vom"    # added
+    world:      "mond"   # added
+    life:       "vie"    # added
+    hand:       "man"    # added
+    part:       "pix"    # added
+    child:      "xamo"   # added
+    eye:        "shoy"   # added
+    woman:      "vome"   # added
+    place:      "ecal"   # added
+    work:       "krow"   # added
+    week:       "seto"   # added
+    case:       "ysac"   # added
+    point:      "tax"    # added
+    government: "govux"  # added
+    company:    "osacom" # added
+    number:     "numix"  # added
+    group:      "skov"   # added
+    problem:    "quol"   # added
+    fact:       "fash"   # added
